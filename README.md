@@ -5,6 +5,9 @@ Nothing fancy, no frameworks, plain HTML, CSS, and JavaScript for every
 single one, so they all just run by opening `index.html`, no build step,
 no install, nothing.
 
+##link
+https://adarsh762.github.io/mini_games/
+
 ## What's in here
 
 - **rock, paper & scissor** — the classic, with a vs Computer mode and a
