@@ -3,9 +3,6 @@
 A classic Pong game, but I threw in avatars because plain paddles are boring.
 Naturally, Shawn and Justin made another appearance here too 😄
 
-## Demo
-https://vishesharma20.github.io/Mini_Games/ping%20pong/
-
 ## Screenshots
 
 **Landing page**
