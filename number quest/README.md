@@ -4,9 +4,6 @@ A simple number guessing game I built for fun — pick a difficulty, guess the s
 
 Started out as a C++ console game, then I turned it into a browser version so anyone can play it without installing anything.
 
-## Live Demo
-https://vishesharma20.github.io/Mini_Games/number%20quest/
-
 ## How to play
 
 1. Pick a difficulty:
