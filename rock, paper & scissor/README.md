@@ -3,10 +3,7 @@
 A simple Rock Paper Scissors game made with HTML, CSS, and JavaScript.
 
 I got the inspo for this from a screenshot I found on Pinterest and decided to try
-building it myself, it was a fun little project!
-
-## Demo
-https://vishesharma20.github.io/Mini_Games/rock,%20paper%20%26%20scissor/
+building it myself, it was a fun little project
 
 ## Modes
 
